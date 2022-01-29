@@ -1,2 +1,2 @@
-# Stock_DepthMask_Config
- adds depthmask module for some stock parts
+This mod adds depthmask module for some of the stock parts.
+Also, some part of the config is from restock by Nertea.
