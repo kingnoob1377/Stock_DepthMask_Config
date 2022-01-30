@@ -1,6 +1,6 @@
 This mod adds depthmask module for some of the stock parts.
 Also, some part of the config is from restock by Nertea.
-Put Stock_DepthMask_Config file in root of GameData
+Put Stock_DepthMask_Config file in root of GameData.
 
 // J-33 "Wheesley" Turbofan Engine (JetEngine)
 // J-404 "Panther" Afterburning Turbofan (turboJet)
