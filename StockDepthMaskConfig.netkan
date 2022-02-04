@@ -5,7 +5,7 @@ resources:
   homepage: https://spacedock.info/mod/2963/Stock%20DepthMask%20Config#info
 tags:
   - config
-$kref: #/ckan/spacedock/2936
+$kref: '#/ckan/spacedock/2936'
 ksp_version: 1.9.1
 install:
   - find: StockDepthMaskConfig
