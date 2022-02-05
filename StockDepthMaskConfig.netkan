@@ -1,3 +1,4 @@
+(I have no idea about these yet)
 spec_version: v1.4
 identifier: StockDepthMaskConfig
 license: MIT
@@ -6,7 +7,7 @@ resources:
 tags:
   - config
 $kref: '#/ckan/spacedock/2936'
-ksp_version: 1.9.1
+ksp_version: 1.12.3
 install:
   - find: StockDepthMaskConfig
     install_to: GameData
