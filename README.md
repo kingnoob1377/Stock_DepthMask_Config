@@ -1,4 +1,4 @@
-# Stock_DepthMask_Config
+# StockDepthMaskConfig
 
 ## by kingnoob1377
 
